@@ -1,33 +1,30 @@
 # Prologue
 [Key] Intro 1
-[Face] 0
-[Name] 
 [Background] Dim
 -Knock Knock-
 
 [Key] Intro 2
-[Face] 0
-[Name]
 \n[1]! Are you there?
 
 [Key] Intro 3
-[Face] Rin_Portrait, 2
+[Face] Rin_Portrait, 1
 [Name] \n[1]
-mmm... Who could be knocking on the door on such a wonderful day?
+mmm... Who could be knocking on such a wonderful day?
 
 [Key] Intro 4
-[Face] 0
-[Name] 
 [Background] Dim
 The door opens and you hear the sound of footsteps coming closer to you
 
 [Key] Intro 5
-[Face] 0
-[Name]
+[Name] ????
 WAKE UP!!!!!!!!!!!!!!!!!!!!!!
 
+[Key] Intro 5.1
+[Background] Dim
+The mysterious person smacks \n[1] on the head, leaving a loud thud sound.
+
 [Key] Intro 6
-[Face] Rin_Portrait, 3
+[Face] Rin_Portrait, 2
 [Name] \n[1]
 OWWWWW! That hurts! What was that for?!
 
@@ -37,7 +34,7 @@ OWWWWW! That hurts! What was that for?!
 Well thats what you get for sleeping on this "wonderful" day!
 
 [Key] Intro 8
-[Face] Rin_Portrait, 3
+[Face] Rin_Portrait, 2
 [Name] \n[1]
 But its sooooo early! Couldn't you have come later?
 
@@ -47,10 +44,8 @@ But its sooooo early! Couldn't you have come later?
 Nope! Chief's orders, you are to help the fishermen with the fish today!
 
 [Key] Intro 10
-[Face] 0
-[Name]
 [Background] Dim
-I give out a good stretch with my arms and prepare myself for the day ahead
+\n[1] stretches her arms out and prepares herself for whats coming in the days ahead
 
 [Key] Intro 11
 [AFace] 1
