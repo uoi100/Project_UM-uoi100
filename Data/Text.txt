@@ -1,0 +1,82 @@
+# Prologue
+[Key] Intro 1
+[Face] 0
+[Name] 
+[Background] Dim
+-Knock Knock-
+
+[Key] Intro 2
+[Face] 0
+[Name]
+\n[1]! Are you there?
+
+[Key] Intro 3
+[Face] Rin_Portrait, 2
+[Name] \n[1]
+mmm... Who could be knocking on the door on such a wonderful day?
+
+[Key] Intro 4
+[Face] 0
+[Name] 
+[Background] Dim
+The door opens and you hear the sound of footsteps coming closer to you
+
+[Key] Intro 5
+[Face] 0
+[Name]
+WAKE UP!!!!!!!!!!!!!!!!!!!!!!
+
+[Key] Intro 6
+[Face] Rin_Portrait, 3
+[Name] \n[1]
+OWWWWW! That hurts! What was that for?!
+
+[Key] Intro 7
+[AFace] 2
+[Name] \n[2]
+Well thats what you get for sleeping on this "wonderful" day!
+
+[Key] Intro 8
+[Face] Rin_Portrait, 3
+[Name] \n[1]
+But its sooooo early! Couldn't you have come later?
+
+[Key] Intro 9
+[AFace] 2
+[Name] \n[2]
+Nope! Chief's orders, you are to help the fishermen with the fish today!
+
+[Key] Intro 10
+[Face] 0
+[Name]
+[Background] Dim
+I give out a good stretch with my arms and prepare myself for the day ahead
+
+[Key] Intro 11
+[AFace] 1
+[Name] \n[1]
+Alright! I'm ready, lets see what the fishermen need help with!
+
+[Key] Intro 12
+[AFace] 2
+[Name] \n[2]
+Don't worry! I'll be coming with you to help out!
+
+# Fish Event
+[Key] Fish 1
+[AFace] 1
+[Name] \n[1]
+Alright! I caught one!... Huh? Thats not a fish... Thats a slime!
+
+[Key] Fish 2
+[AFace] 2
+[Name] \n[2]
+What is a slime doing here? What do we do \n[1]?
+
+[Key] Fish 3
+[AFace] 2
+[Name] \n[1]
+Well there is only one thing we can do \n[2] and its to fight! We've been training for things like this to happen!
+
+#execute battle phase
+// End Prologue
