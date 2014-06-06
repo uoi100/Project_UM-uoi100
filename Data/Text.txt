@@ -98,19 +98,19 @@ Good luck and have fun fishing!
 Thanks!
 
 [Key] Fish 1
-[AFace] 1
+[Face] Rin_Portrait, 2
 [Name] \n[1]
-Alright! I caught one!... Huh? Thats not a fish... Thats a slime!
+Ugh... I didn't expect to be attacked by slimes
 
 [Key] Fish 2
 [AFace] 2
 [Name] \n[2]
-What is a slime doing here? What do we do \n[1]?
+I didn't expect that either, what is going on? How did you even manage to fish out slimes?!
 
 [Key] Fish 3
-[AFace] 2
+[Face] Rin_Portrait, 2
 [Name] \n[1]
-Well there is only one thing we can do \n[2] and its to fight! We've been training for things like this to happen!
+I don't know! But this sounds serious, we should report it to the chief right away.
 
 [Key] oldman 1
 [Face] people1,6
