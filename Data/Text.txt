@@ -58,6 +58,45 @@ Alright! I'm ready, lets see what the fishermen need help with!
 Don't worry! I'll be coming with you to help out!
 
 # Fish Event
+[Key] FishTut 1
+[Face] people3,4
+[Name] Fisherman
+Hey \n[1]! I heard you were coming to help us, do you need an explanation on how to fish?
+
+[Key] FishTut 1.1
+[Face] people3,4
+[Name] Fisherman
+Alright, watch me fish and maybe you'll pick up on it.
+
+[Key] FishTut 2
+[Face] people3,4
+[Name] Fisherman
+Hit the corresponding buttons before the timer runs out, if you fail then you miss the catch.
+
+[Key] FishTut 3
+[AFace] 1
+[Name] \n[1]
+Looks easy to me! Time to catch some fish!
+
+[Key] FishTut 3.1
+[AFace] 1
+[Name] \n[1]
+Ugh... This is pretty tough!
+
+[Key] Fishtut 4
+[Background] Dim
+The fisherman gives \n[1] a fishing rod for her to go fishing with.
+
+[Key] Fishtut 5
+[Face] people3,4
+[Name] Fisherman
+Good luck and have fun fishing!
+
+[Key] Fishtut 6
+[AFace] 1
+[Name] \n[1]
+Thanks!
+
 [Key] Fish 1
 [AFace] 1
 [Name] \n[1]
@@ -72,6 +111,35 @@ What is a slime doing here? What do we do \n[1]?
 [AFace] 2
 [Name] \n[1]
 Well there is only one thing we can do \n[2] and its to fight! We've been training for things like this to happen!
+
+[Key] oldman 1
+[Face] people1,6
+[Name] Old Man
+Hello \n[1], hows your day going?
+
+[Key] oldman 2
+[AFace] 1
+[Name] \n[1]
+Hey! I'm doing great, thanks for asking!
+
+[Key] oldman 3
+[Face] people1,6
+[Name] Old Man
+That's good, I have something for you!
+
+[Key] oldman 4
+[Background] Dim
+The old man gives \n[1] three potions
+
+[Key] oldman 5
+[AFace] 1
+[Name] \n[1]
+Thanks for the potion! I'll be sure to use it.
+
+[Key] oldman final
+[Face] people1,6
+[Name] Old Man
+Take care of yourself \n[1], make sure not to tackle more things than you can handle.
 
 #execute battle phase
 // End Prologue
