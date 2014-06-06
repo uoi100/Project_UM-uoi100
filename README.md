@@ -1,4 +1,4 @@
-Project_UM
+Project UM
 ==========
 
 Authors
