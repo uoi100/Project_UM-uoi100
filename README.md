@@ -1,6 +1,16 @@
 Project_UM-uoi100
 =================
 
+Authors
+=======
+uoi100
+abc33kr
+
+About Us
+========
+This is our very first rpg that we're making together, we decided to base it off RPG Maker VX Ace due to the
+humble bundle weekly offer. And we didn't have enough time to learn another engine due to the rpg contest that ends in June 2014.
+
 Credits
 =======
 
