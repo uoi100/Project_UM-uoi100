@@ -1,5 +1,5 @@
-Project_UM-uoi100
-=================
+Project_UM
+==========
 
 Authors
 =======
